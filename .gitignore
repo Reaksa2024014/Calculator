@@ -1,0 +1,7 @@
+.vscode/
+__MACOSX/
+__pycache__/
+env/
+*.db
+*.xlsx
+tempCodeRunnerFile.*
